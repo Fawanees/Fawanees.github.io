@@ -9,12 +9,5 @@
   "theme_color": "#0B0F2A",
   "lang": "ar",
   "dir": "rtl",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "180x180",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
+  "icons": [{"src": "icon.svg", "sizes": "180x180", "type": "image/svg+xml", "purpose": "any maskable"}]
 }
