@@ -1,7 +1,6 @@
 {
   "name": "فوانيس",
   "short_name": "فوانيس",
-  "description": "محاكاة أول تشغيل · فوانيس · النموذج ١٠",
   "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
